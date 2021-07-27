@@ -55,6 +55,8 @@ it oversees the units when fighting
 it overlooks the buildings of the city
 *	scenic – elevation orthographic projection – scene view
 it looks at a scene like exploring a cave from an upright position
+*	figure – elevation orthographic projection of a character – scene view
+it looks at characters in full figure
 *	portrait – elevation orthographic projection of a character – communication view
 it looks at characters from the bust up, also used for selections
 *	mugshot – elevation orthographic projection of a character – details view
